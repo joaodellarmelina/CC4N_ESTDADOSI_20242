@@ -1,26 +1,62 @@
-# Instruções para Submissão do Portfólio de Estrutura de Dados I
+# Submissão do Portfólio de Estrutura de Dados I
 
-## Passo 1: Faça o Fork do Repositório
-1. Acesse o repositório oficial da disciplina no GitHub: [Link para o Repositório](https://github.com/gnrochabr/CC4N_ESTDADOSI_20242/).
-2. No canto superior direito, clique no botão **Fork** para criar uma cópia do repositório em sua conta do GitHub.
+#### Passo 1: Faça o Fork do Repositório
+1. Acesse o repositório oficial da disciplina no GitHub pelo seguinte link: [Repositório Oficial](https://github.com/gnrochabr/CC4N_ESTDADOSI_20242/).
+2. No canto superior direito, clique no botão **Fork** para criar uma cópia do repositório no seu GitHub pessoal. Todo o trabalho será feito nessa cópia.
 
-## Passo 2: Organize os Estudos de Caso
-As atividades serão postadas no blog com as seguintes datas de entrega:
-- **Atividade 1: 02/11** - Conteúdo: Estrutura de Ordenação Simples (Bubblesort, Selection Sort e Insertion Sort) (0,25  ponto cada - 0,75 ponto total).
-- **Atividade 2: 16/11** - Conteúdo: Estrutura de Ordenação Complexas (Mergesort, Quicksort e Shell Sort) (0,25  ponto cada - 0,75 ponto total). 
-- **Atividade final: 01/12** - Conteúdo: Árvores de Busca: BST e AVL (0,75 ponto cada - 1,5 ponto total).
+#### Passo 2: Organize as Atividades
+As atividades serão postadas no blog da disciplina e devem ser organizadas de acordo com o cronograma abaixo:
 
-Esses exercícios serão avaliados com base no conteúdo prático visto em aula. Organize o código adequadamente para facilitar a correção.
+- **Atividade 1: 02/11/2024**  
+  - **Conteúdo**: Estruturas de Ordenação Simples (Bubblesort, Selection Sort, Insertion Sort).  
+  - **Valor**: 0,25 ponto por algoritmo, totalizando 0,75 ponto.
 
-## Prazo de Entrega:
-Os códigos devem ser enviados **até a data limite** de cada atividade. Exercícios entregues **após** a correção terão valor reduzido.
+- **Atividade 2: 16/11/2024**  
+  - **Conteúdo**: Estruturas de Ordenação Complexas (Mergesort, Quicksort, Shell Sort).  
+  - **Valor**: 0,25 ponto por algoritmo, totalizando 0,75 ponto.
 
-#### Ponto de Atenção: Envie os Códigos no Prazo
-- Mantenha-se atualizado com as atividades e envios.
-- As orientações da atividade serão designadas em sala de aula.
-- O professor irá verificar a data e hora das entregas no GitHub como parte da avaliação.
-- Os códigos enviados com atraso terão nota descontada em **0,1 ponto** por dia de atraso.
+- **Atividade Final: 01/12/2024**  
+  - **Conteúdo**: Árvores de Busca (BST e AVL).  
+  - **Valor**: 0,75 ponto por estrutura, totalizando 1,5 ponto.
 
-#### Valor da Atividade
-- **3 pontos** - Avaliação referente ao 2º bimestre.
-- **Data limite para entrega completa**: 02/12/2024.
+#### Estrutura de Arquivos
+Dentro do seu repositório, crie uma pasta para cada atividade, com subpastas para cada algoritmo ou estrutura, e salve seus códigos organizadamente. Por exemplo:
+
+```
+Atividade_1/
+    ├── Bubblesort/
+    │     └── bubblesort.c
+    ├── SelectionSort/
+    │     └── selectionsort.c
+    ├── InsertionSort/
+    │     └── insertionsort.c
+
+Atividade_2/
+    ├── Mergesort/
+    │     └── mergesort.c
+    ├── Quicksort/
+    │     └── quicksort.c
+    ├── ShellSort/
+    │     └── shellsort.c
+
+Atividade_Final/
+    ├── BST/
+    │     └── bst.c
+    ├── AVL/
+    │     └── avl.c
+```
+
+#### Passo 3: Envie os Códigos no Prazo
+- **Data de Entrega**: Cada atividade deve ser submetida até a respectiva data limite. 
+- Submissões feitas **após o prazo** serão aceitas com penalidade de **0,1 ponto por dia de atraso**.
+- Certifique-se de que o repositório está sempre atualizado com o conteúdo correto e dentro do prazo.
+
+#### Prazo de Entrega Final
+- A última entrega, incluindo todas as atividades, deve ser feita até **02/12/2024**.
+- O portfólio completo vale **3 pontos**, referentes à avaliação do 2º bimestre.
+
+#### Observações Finais
+- A organização dos arquivos e o cumprimento dos prazos são essenciais para a avaliação.
+- As orientações detalhadas das atividades serão dadas durante as aulas, então fique atento às datas e mantenha seu GitHub atualizado!
+
+Se precisar de ajuda, não hesite em perguntar durante as aulas ou por meio dos canais oficiais da disciplina.
