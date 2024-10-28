@@ -7,15 +7,15 @@
 #### Passo 2: Organize as Atividades
 As atividades serão postadas no blog da disciplina e devem ser organizadas de acordo com o cronograma abaixo:
 
-- **Atividade 1: 02/11/2024**  
+- **Atividade 1: até 02/11/2024**  
   - **Conteúdo**: Estruturas de Ordenação Simples (Bubblesort, Selection Sort, Insertion Sort).  
   - **Valor**: 0,5 ponto.
 
-- **Atividade 2: 16/11/2024**  
+- **Atividade 2: até 16/11/2024**  
   - **Conteúdo**: Estruturas de Ordenação Complexas (Mergesort, Quicksort, Shell Sort).  
   - **Valor**: 1,0 ponto.
 
-- **Atividade Final: 01/12/2024**  
+- **Atividade Final: até 01/12/2024**  
   - **Conteúdo**: Árvores de Busca (BST e AVL).  
   - **Valor**: 1,5 pontos.
     
