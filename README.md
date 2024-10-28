@@ -50,6 +50,8 @@ Atividade_Final/
 - **Data de Entrega**: Cada atividade deve ser submetida até a respectiva data limite. 
 - Submissões feitas **após o prazo** serão aceitas com penalidade de **0,1 ponto por dia de atraso**.
 - Certifique-se de que o repositório está sempre atualizado com o conteúdo correto e dentro do prazo.
+- Crie os comentários do seu código declarando a documentação sobre as variáveis e as movimentações realizadas.
+- Use nomes de variáveis que sejam eficientes para o entendimento do código.
 
 #### Prazo de Entrega Final
 - A última entrega, incluindo todas as atividades, deve ser feita até **02/12/2024**.
