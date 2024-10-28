@@ -31,7 +31,10 @@ Atividade_1/
     ├── InsertionSort/
     │     └── insertionsort.c
 
-Atividade_2/
+Atividade_2/ (Exemplo)
+    ├── Apresentação/
+    │     └── apresentacao.pptx
+    │     └── codigo.c
     ├── Mergesort/
     │     └── mergesort.c
     ├── Quicksort/
